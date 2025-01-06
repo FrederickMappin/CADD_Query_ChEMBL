@@ -8,7 +8,7 @@ ChEMBL 34, released on 28/03/2024, includes a full update to drug and clinical c
 Originally adapted from [dataprofessor](https://github.com/dataprofessor/code/blob/master/python/CDD_ML_Part_1_Bioactivity_Data_Concised.ipynb)
 
 ## Brief Example Dataset & Project Description:
-Diseases associated with RIPK1 gene mutations primarily involve disrupted regulation of cell death (necroptosis and apoptosis) and dysregulated inflammation. These can lead to a wide range of conditions, from autoimmune diseases to neurodegenerative disorders and cancer. We query the ChEMBL database to obtain information regarding bioactivity. 
+Diseases associated with RIPK1 gene mutations primarily involve disrupted regulation of cell death (necroptosis and apoptosis) and dysregulated inflammation. These can lead to a wide range of conditions, from autoimmune diseases to neurodegenerative disorders and cancer. We query the ChEMBL database to obtain information regarding chemical bioactivity of RIPK1. 
 
 ## Select Example Outputs:
 
