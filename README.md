@@ -18,7 +18,7 @@ Select Example Outputs:
 
 ![standard_value_histogram](https://github.com/user-attachments/assets/68e66d29-0455-436f-ad66-2756218e0fcc)
 
-![top_20_molecule_occurrences_vs_avg_standard_value](https://github.com/user-attachments/assets/2b5cc34d-ef15-45c8-98bc-2c4a65cc43be)
+<img width="796" alt="Screenshot 2025-01-06 at 4 19 55 PM" src="https://github.com/user-attachments/assets/fb7b9e98-5b1c-413b-bb7a-07117f3ee187" />
 
 <img width="904" alt="Screenshot 2025-01-06 at 4 20 05 PM" src="https://github.com/user-attachments/assets/9244b6f3-bd48-4ebe-b160-4ab4b7260347" />
 
