@@ -20,6 +20,9 @@ Diseases associated with RIPK1 gene mutations primarily involve disrupted regula
 
 <img width="796" alt="Screenshot 2025-01-06 at 4 19 55 PM" src="https://github.com/user-attachments/assets/fb7b9e98-5b1c-413b-bb7a-07117f3ee187" />
 
+# Dashboard
+
+
 <img width="904" alt="Screenshot 2025-01-06 at 4 20 05 PM" src="https://github.com/user-attachments/assets/9244b6f3-bd48-4ebe-b160-4ab4b7260347" />
 
 
