@@ -1,4 +1,6 @@
 # Query ChEMBL Script
+<img width="219" height="97" alt="image" src="https://github.com/user-attachments/assets/ca890dd5-1322-488f-9ce5-619405a1da76" />
+
 
 Here we use a google colab script to extract bioactivity data IC50 and EC50 for any protein target of interest   within the ChEMBL database. 
 
